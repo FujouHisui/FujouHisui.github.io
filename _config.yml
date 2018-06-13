@@ -61,8 +61,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID:96675bf24b0c15343e98                             #生成的clientID
-  clientSecret:6efd33ffbcc9a5a5a077d9bf6d6f4e7a599a5596     #生成的clientSecret
+  clientID: 96675bf24b0c15343e98                             #生成的clientID
+  clientSecret: 6efd33ffbcc9a5a5a077d9bf6d6f4e7a599a5596     #生成的clientSecret
   repo: fujouhisui.github.io    #仓库名称
   owner: fujouhisui    #github用户名
   admin: fujouhisui
