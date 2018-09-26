@@ -99,7 +99,7 @@ service-worker: true
 friends: [
     {
         title: "Lxx",
-        href: "http://lxx,moe"
+        href: "http://lxx.moe"
     }
 ]
 
